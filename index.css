@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+       .body {
+            
+ 			
+
+			
+            }
+
+
+	  
+	.Start {
+	        color:#FFFFFF;
+			background-image: url("resume.jpg");
+            background-size: 2380px 333px%;
+            background-repeat: repeat-x; 
+			border:0;
+			font-size: 300%;
+			text-align: center;
+			margin:0px;
+			padding:20px;
+			font-family: Adobe 繁黑體 Std B,Times New Roman, Sans-serif;
+		    }
+	
+	.GuideBar {
+            background-color:rgb(83,71,65);
+			color: #FFFFFF;
+			font-size: 100%;
+			position:relative;
+			text-align: right;
+			text-transform: uppercase;
+			}
+	.About {
+            background-image: url(img_flwr.gif), url(paper.gif);
+            background-position: top;
+            background-repeat: no-repeat;
+			color: #00ff00;
+			font-size: 2.5em;
+		    }
+
+ 	.Education {
+            background-image: url(img_flwr.gif), url(paper.gif);
+            background-position: top;
+            background-repeat: no-repeat;
+			color: #00ff00;
+			font-size: 2.5em;
+		    }
+  
+	
+	.Skills {
+            background-image: url(img_flwr.gif), url(paper.gif);
+            background-position: top;
+            background-repeat: no-repeat;
+			color: #00ff00;
+			font-size: 2.5em;
+		    }
+	
+	.Projects {
+            background-image: url(img_flwr.gif), url(paper.gif);
+            background-position: top;
+            background-repeat: no-repeat;
+			color: #00ff00;
+			font-size: 2.5em;
+		    }
+	
+
+ 
+</style>
+
+</head>
+<body>
+</body>
+</html>
