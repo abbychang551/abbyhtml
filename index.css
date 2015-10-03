@@ -6,8 +6,11 @@
               font-family: 'Adobe';
                src: url('AdobeFanHeitiStd-Bold.otf') format('oft');
               
-}
-   
+             }
+        
+
+	       
+	    
   
 	.Start {
 	        color:#FFFFFF;
@@ -19,44 +22,66 @@
 			text-align: center;
 			margin:0px;
 			padding:42px;
-		    font-family:'Adobe';
+		    font-family:"lucida Sans Unicode","Arial Black",sans-serif;
+			background-color:#FFFFFF;
 			
 			}
-	
+
 	.GuideBar {
             background-color:rgb(83,71,65);
 			color: #FFFFFF;
+		     font-family:"Arial Black","lucida Sans Unicode",sans-serif;
 			font-size: 100%;
 			position:relative;
 			text-align: right;
 			text-transform: uppercase;
 			}
-
+    .Side1{
+	        float:left;
+           	background-color:rgb(199,178,153);
+            width:50px;
+			height:2500px;
+			
+           }
+		   
+	    .Side2{
+	        float:right;
+	        background-color:rgb(199,178,153);
+             width:70px;
+            height:2500px;
+           }	   
+     
+   
+     
+	
 	.Ab {
-        
-        
-         height:250px;
-         width:600px;
-         float:left;
-         padding:0px;
-	     font-size:400%;
-		 margin-top:0px;
-		  margin-bottom:0px;
-		
+	        font-size:400%;
+		    background:url("line.png");
+            background-size:1300px 27px; 
+		    background-repeat: repeat-x; 
+		    background-position:bottom;
+			font-family: 'Brush Script MT', cursive;
+			margin-left:30px;
+			margin-right:30px;
+			
+			
+			
         }		 
  
-			
+	
 	.About {
            
-  		    background-color:#eeeeee;
-			font-family:'Adobe';
+  		  
+			font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif;
 			font-size:200%;
 			height:250px;
-			width:10000px;
+			width:1500px;
             padding:0px;	
             text-align:left;	
-            margin-top:0px;
-		    margin-bottom:0px;			
+		   	margin-left:30px;
+			margin-right:30px;
+			text-align:center;
+			
 			
 
 		    }
@@ -66,12 +91,14 @@
 
        
          
-         height:250px;
-         width:600px;
-         float:left;
-         padding:0px;
-	     font-size:400%;
-
+            font-size:400%;
+		    background:url("line.png");
+             background-size:1300px 27px; 
+		    background-repeat: repeat-x; 
+		    background-position:bottom;
+          font-family: 'Brush Script MT', cursive;
+		 	margin-left:30px;
+			margin-right:30px;
         }	
 			
 			
@@ -79,74 +106,80 @@
  	.Education {
             
 		
-			
-			font-family:'Adobe';
+            
+			font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif;
 			font-size:200%;
 			height:250px;
-			width:10000px;
+			width:1500px;
             padding:0px;
-            margin-top:0px;
-		    margin-bottom:0px;			
+           	margin-left:30px;
+			margin-right:30px;
+				text-align:center;
+	
 			
 		    }
   .Sk  {
   
-        
-         height:250px;
-         width:600px;
-         float:left;
-         padding:0px;
-	     font-size:400%;
-  
-       }
+            font-size:400%;
+		     background:url("line.png");
+            background-size:1300px 27px; 
+		    background-repeat: repeat-x; 
+		    background-position:bottom;
+         font-family: 'Brush Script MT', cursive;
+     	    margin-left:30px;
+			margin-right:30px;
+	   
+	   }
 	
 	
 	
 	
 	.Skills {
            
-		    background-color:#eeeeee;
+		
 			
-			font-family:'Adobe';
+			font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif;
 			font-size:200%;
 			height:250px;
-			width:10000px;
+			width:1500px;
             padding:0px;
-            margin-top:0px;
-		    margin-bottom:0px;			
-            			
+          	margin-left:30px;
+			margin-right:30px;
+				text-align:center;
 		   
 		    }
 			
 	.Pr{
 
 	
-	
-    
-         height:250px;
-         width:600px;
-         float:left;
-         padding:0px;
-	     font-size:400%;
-  
-	
-	
-	     }		
+	font-size:400%;
+		    background:url("line.png");
+             background-size:1273px 27px; 
+		    background-repeat: repeat-x; 
+		    background-position:bottom;
+	      font-family: 'Brush Script MT', cursive;
+	       	margin-left:30px;
+			margin-right:30px;
+			}
 	
 	.Projects {
-            
-             margin-top:0px;
+          
+            margin-top:0px;
 		    margin-bottom:0px;
 			 
-			font-family:'Adobe';
+			font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif;
 			font-size:200%;
 			height:250px;
-			width:10000px;
+			width:1500px;
             padding:0px;	 
-		    }
+		    	margin-left:30px;
+			margin-right:30px;
+				text-align:center;
+			}
+			
 			
 
-		 
+	
 			
 			
 			
