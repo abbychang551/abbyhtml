@@ -2,27 +2,26 @@
 <html>
 <head>
 <style>
-       .body {
-            
- 			
-
-			
-            }
-
-
-	  
+           @font-face {
+              font-family: 'Adobe';
+               src: url('AdobeFanHeitiStd-Bold.otf') format('oft');
+              
+}
+   
+  
 	.Start {
 	        color:#FFFFFF;
 			background-image: url("resume.jpg");
-            background-size: 2380px 333px%;
+            background-size: 2308px 600px;
             background-repeat: repeat-x; 
 			border:0;
 			font-size: 300%;
 			text-align: center;
 			margin:0px;
-			padding:20px;
-			font-family: Adobe 繁黑體 Std B,Times New Roman, Sans-serif;
-		    }
+			padding:42px;
+		    font-family:'Adobe';
+			
+			}
 	
 	.GuideBar {
             background-color:rgb(83,71,65);
@@ -32,38 +31,125 @@
 			text-align: right;
 			text-transform: uppercase;
 			}
-	.About {
-            background-image: url(img_flwr.gif), url(paper.gif);
-            background-position: top;
-            background-repeat: no-repeat;
-			color: #00ff00;
-			font-size: 2.5em;
-		    }
 
- 	.Education {
-            background-image: url(img_flwr.gif), url(paper.gif);
-            background-position: top;
-            background-repeat: no-repeat;
-			color: #00ff00;
-			font-size: 2.5em;
+	.Ab {
+        
+        
+         height:250px;
+         width:600px;
+         float:left;
+         padding:0px;
+	     font-size:400%;
+		 margin-top:0px;
+		  margin-bottom:0px;
+		
+        }		 
+ 
+			
+	.About {
+           
+  		    background-color:#eeeeee;
+			font-family:'Adobe';
+			font-size:200%;
+			height:250px;
+			width:10000px;
+            padding:0px;	
+            text-align:left;	
+            margin-top:0px;
+		    margin-bottom:0px;			
+			
+
 		    }
+			
+		
+	.Ed {
+
+       
+         
+         height:250px;
+         width:600px;
+         float:left;
+         padding:0px;
+	     font-size:400%;
+
+        }	
+			
+			
+			
+ 	.Education {
+            
+		
+			
+			font-family:'Adobe';
+			font-size:200%;
+			height:250px;
+			width:10000px;
+            padding:0px;
+            margin-top:0px;
+		    margin-bottom:0px;			
+			
+		    }
+  .Sk  {
   
+        
+         height:250px;
+         width:600px;
+         float:left;
+         padding:0px;
+	     font-size:400%;
+  
+       }
+	
+	
+	
 	
 	.Skills {
-            background-image: url(img_flwr.gif), url(paper.gif);
-            background-position: top;
-            background-repeat: no-repeat;
-			color: #00ff00;
-			font-size: 2.5em;
+           
+		    background-color:#eeeeee;
+			
+			font-family:'Adobe';
+			font-size:200%;
+			height:250px;
+			width:10000px;
+            padding:0px;
+            margin-top:0px;
+		    margin-bottom:0px;			
+            			
+		   
 		    }
+			
+	.Pr{
+
+	
+	
+    
+         height:250px;
+         width:600px;
+         float:left;
+         padding:0px;
+	     font-size:400%;
+  
+	
+	
+	     }		
 	
 	.Projects {
-            background-image: url(img_flwr.gif), url(paper.gif);
-            background-position: top;
-            background-repeat: no-repeat;
-			color: #00ff00;
-			font-size: 2.5em;
+            
+             margin-top:0px;
+		    margin-bottom:0px;
+			 
+			font-family:'Adobe';
+			font-size:200%;
+			height:250px;
+			width:10000px;
+            padding:0px;	 
 		    }
+			
+
+		 
+			
+			
+			
 	
 
  
