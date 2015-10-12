@@ -17,13 +17,12 @@
 			background-image: url("resume.jpg");
             background-size: 2308px 600px;
             background-repeat: repeat-x; 
-			border:0;
 			font-size: 300%;
-			text-align: center;
 			margin:0px;
-			padding:42px;
+			padding:20px;
 		    font-family:"lucida Sans Unicode","Arial Black",sans-serif;
 			background-color:#FFFFFF;
+			text-align:center;
 			
 			}
 
